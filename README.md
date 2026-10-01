@@ -33,6 +33,7 @@ I build growth systems with AI coding agents (Claude Code, Codex) and open-sourc
 ## 🛠 What I work with
 
 **Growth:** GTM · paid acquisition · SEO / GEO / ASO · lifecycle & CRM · unit economics · P&L
+
 **AI & building:** multi-agent pipelines · Claude / OpenAI APIs · LangGraph · MCP · Python · coding agents
 
 ## 🤝 Contact
