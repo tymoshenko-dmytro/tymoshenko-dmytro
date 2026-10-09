@@ -11,7 +11,9 @@ I build growth systems with AI coding agents (Claude Code, Codex) and open-sourc
 
 ## 🚀 Open source
 
-**Coming soon:** a self-hosted AI pipeline that turns a topic into a researched, fact-checked WordPress draft: keyword research → deep web research → writer and editor agents with a fact-checking loop → images and charts → draft for human approval.
+**[Marketing Agent Kit](https://github.com/tymoshenko-dmytro/claude-marketing-skills)**: Claude Code marketing skills that let one marketer do the work of a growth team. Competitor dossiers, ad libraries, Ahrefs SEO, GA4 reports, funnel screenshots, ad images, motion videos and a copy critic. Free, MIT.
+
+**SEO Writer Agent** (coming soon): a self-hosted AI pipeline that turns a topic into a researched, fact-checked WordPress draft.
 
 ## 📈 Selected results
 
