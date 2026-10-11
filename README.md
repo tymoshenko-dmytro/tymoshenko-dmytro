@@ -11,7 +11,7 @@ I build growth systems with AI coding agents (Claude Code, Codex) and open-sourc
 
 ## 🚀 Open source
 
-**[Marketing Agent Kit](https://github.com/tymoshenko-dmytro/claude-marketing-skills)**: Claude Code marketing skills that let one marketer do the work of a growth team. Competitor dossiers, ad libraries, Ahrefs SEO, GA4 reports, funnel screenshots, ad images, motion videos and a copy critic. Free, MIT.
+**[Claude Marketing Skills](https://github.com/tymoshenko-dmytro/claude-marketing-skills)**: an AI growth team for Claude Code. Ten marketing agents research competitors, pull ads from the LinkedIn, Google and Meta ad libraries, read Ahrefs and GA4, screenshot funnels, make ad images and videos, and check every line of copy, all on your real data. Free and open source (MIT).
 
 **SEO Writer Agent** (coming soon): a self-hosted AI pipeline that turns a topic into a researched, fact-checked WordPress draft.
 
