@@ -13,16 +13,16 @@ I build growth systems with AI coding agents (Claude Code, Codex) and open-sourc
 
 **[Claude Marketing Skills](https://github.com/tymoshenko-dmytro/claude-marketing-skills)**: an AI growth team for Claude Code. Ten marketing agents research competitors, pull ads from the LinkedIn, Google and Meta ad libraries, read Ahrefs and GA4, screenshot funnels, make ad images and videos, and check every line of copy, all on your real data. Free and open source (MIT).
 
-**SEO Writer Agent** (coming soon): a self-hosted AI pipeline that turns a topic into a researched, fact-checked WordPress draft.
-
 ## 💼 Experience
 
-| Role | Company | When |
-|---|---|---|
-| Head of Growth | [Palabra.ai](https://palabra.ai): real-time AI speech translation | 2026 – now |
-| Growth Advisor | TripleTen: US tech bootcamp | 2025 – now |
-| Startup Advisor | TRMNL4: accelerator, Pre-Seed → Series A | 2025 – now |
-| CEO → Strategic Advisor | Eightify: AI YouTube summarizer | 2024 – 2026 |
+- **Head of Growth · [Palabra.ai](https://palabra.ai)** · 2026 – now  
+  Real-time AI speech translation. I lead growth: paid acquisition, SEO, analytics and ad creative.
+- **Growth Advisor · TripleTen** · 2025 – now  
+  US tech bootcamp. I built the SEO and GEO strategy, including free AI tools that bring in organic traffic.
+- **Startup Advisor · TRMNL4** · 2025 – now  
+  Accelerator for pre-seed to Series A startups. I advise founders on go-to-market and growth.
+- **CEO → Strategic Advisor · Eightify** · 2024 – 2026  
+  AI YouTube summarizer. As CEO I owned the full P&L, then stayed on as a strategic advisor.
 
 ## 🛠 What I work with
 
